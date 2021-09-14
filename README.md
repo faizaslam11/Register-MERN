@@ -1,4 +1,4 @@
-### Demo Register form using MERN Stack
+### Demo Register form using MERN Stack for a given task
 
 ## Steps to run this project
 
